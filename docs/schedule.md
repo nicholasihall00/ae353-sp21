@@ -204,7 +204,7 @@ description: What we will do from day to day
   </div>
 </div>
 
-### Day 17: Ackmermann's method - controllable canonical form (Friday, March 5)
+### Day 17: Ackermann's method - controllable canonical form (Friday, March 5)
 
 * [Video](https://mediaspace.illinois.edu/media/t/1_hmlrvmv1/)
 * [Survey](https://docs.google.com/forms/d/e/1FAIpQLScILM7dwAbDbljh7sGUIvc5jJeCLDpmitX4lEzYo1nAEXPkvA/viewform?usp=sf_link) (<a role="button" data-bs-toggle="collapse" href="#day17-survey-results" aria-expanded="false" aria-controls="day17-survey-results">Results</a>)
@@ -224,6 +224,24 @@ description: What we will do from day to day
   </div>
 </div>
 
-### Day 18 (Monday, March 8)
+## Week 7
 
-* [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeAPG_Uq04tIH8kWoMyF8HbNS_5A02XG_3y077J3vjRhtQTJw/viewform?usp=sf_link)
+### Day 18: Ackermann's method - implications for controllability (Monday, March 8)
+
+* [Video](https://mediaspace.illinois.edu/media/t/1_9d7uv2dc/)
+* [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeAPG_Uq04tIH8kWoMyF8HbNS_5A02XG_3y077J3vjRhtQTJw/viewform?usp=sf_link) (<a role="button" data-bs-toggle="collapse" href="#day18-survey-results" aria-expanded="false" aria-controls="day18-survey-results">Results</a>)
+* [Notes (Before Class)](./notes/Day18-Controllability.pdf)
+* [Notes (After Class)](./notes/Day18-Controllability-InClass.pdf)
+* [PrairieLearn HW9](https://www.prairielearn.org/pl/course_instance/128571/assessments)
+
+<div class="collapse" id="day18-survey-results">
+  <div class="card card-body">
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLnBdQKRjI-OMibJg8XAChQqP7w3OofbZeX_vePYiq8QWRUKdKh8sFppPBaBF2UGk3zd-cRfwFnmkd/pubchart?oid=717280055&amp;format=interactive"></iframe>
+  </div>
+</div>
+
+### Day 19: Examples of what it means for a system to be controllable (Wednesday, March 10)
+
+* [Survey](https://docs.google.com/forms/d/e/1FAIpQLSemeHLQnWaiDCpE3CthZqkkeKaRAkVBLO-Jwzdh8IFtXIw1KA/viewform?usp=sf_link)
+* [Example code](https://github.com/tbretl/ae353-sp21/tree/main/examples/day19_controllability/) — in particular, see [this notebook](https://github.com/tbretl/ae353-sp21/tree/main/examples/day19_controllability/ExamplesOfControllability.ipynb) for many examples of how to check if a system is controllable
+* [Form to submit a project revision](https://docs.google.com/forms/d/e/1FAIpQLSf_mNfpDIt40F5JforQAA54fyc4Q_WgCG-vmPNQV8atj2oh-w/viewform?usp=sf_link)
